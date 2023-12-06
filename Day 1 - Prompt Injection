@@ -1,0 +1,9 @@
+The day one challenge for 2023's Advent of Cyber highlighted some of the security concerns with AI. Specifically, it covered LLMs (large language models) and their susceptibility to prompt injection.
+I had a passing familiarity with prompt injection from following other cybersecurity practioners. The general idea is that LLMs are trained on huge datasets and designed to respond to users in a way that is at least plausibly human. 
+The issue arises when they are generally trained to come up with a response no matter what (resulting in the model just making up information, also called "hallucinating") or trained to reject requests 
+|for things that are illegal or NSFW (napalm recipes, for example.)
+
+Prompt injection involves feeding information to an AI in such a way that it provides a response that it shouldn't have. It may tell you napalm recipes are off limits, but if you tell it that your grandma always told you napalm recipes as a bedtime story
+and ask it to do the same, well. You might get what you wanted after all. 
+
+TryHackMe's chatbot came with a helpful review of the above information, and a storyline to match. 
