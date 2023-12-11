@@ -1,0 +1,17 @@
+Yes!
+I am so excited for this lab. I love Python, and I've been looking forward to an opportunity to play with some popular data science modules like Pandas and Matplotlib, both of which are featured in today's challenge. 
+Data Science, as explained here, is interpreting data to answer questions. It's statistics for the digital age, helping understand trends and patterns. 
+
+As TryHackMe explains, data science hinges on five responsibilites. These include
+1) Data Collection. This is exactly what it sounds like - where are we getting the data to analyze? 
+2) Data Processing. Also called Data Cleaning - this involves getting the collected data into a standardized format. Harder than it sounds, especially for datasets involving thousands or even millions of distinct points.
+3) Data Mining. Analysis phase 1 - this is where we look for patterns and correlations that might give rise to more in-depth analysis. What stands out about the data already? 
+4) Analysis. In my opinion, the fun part! We're not only testing hypotheses, but looking for actionable insights about the data that can be communicated to stakeholders. We don't just want to know what's happening - we want to know what it means. 
+5) Communication and Visualization. All that hard work is worthless if we can't communicate it simply and effectively! Most of the interested parties won't be data scientists. We need to format the information we've gathered in a way that makes intuitive sense. 
+
+
+Data science is becoming more prominent in cybersecurity for a number of reasons. SIEMs, or Security Info and Event Management systems, collect huge amounts of data and correlate it wherever possible to identify risks and threats. 
+A fundamental principle in developing security posture is Risk Analysis, where you identify the severity and likelihood of an event so that you can make an informed decision about how to prepare or respond. 
+By using data from prior incidents or even our daily logs, we can perform threat trend analysis, develop predictive modeling, and use real information to aid in our Risk Analysis.
+
+In our Day 2 challenge, we'll be using a Jupyter Notebook to follow along on a Python3 crash course. Then, we'll do the same for an Intro to Pandas, a Python module for handling raw data, and use Matplotlib to visualize our results. 
